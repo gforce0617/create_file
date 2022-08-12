@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.510,=D:\delphi\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.902,D:\delphi\create_file\create_file.pas=D:\delphi\create_file.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.882,D:\delphi\create_file.pas=D:\delphi\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.087,D:\delphi\create_file\Project1.dproj=D:\delphi\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.902,D:\delphi\create_file\create_file.dfm=D:\delphi\create_file.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.882,D:\delphi\create_file.dfm=D:\delphi\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
